@@ -19,7 +19,7 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 gem "bulma-rails", "~> 0.7.5"
 gem 'devise'
-gem 'carrierwave', '~> 1.2', '>= 1.2.1'
+gem 'carrierwave', '~> 1.3'
 gem 'simple_form'
 gem "mini_magick"
 gem 'impressionist'
